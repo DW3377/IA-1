@@ -1,0 +1,45 @@
+<style>
+        body{
+            background-color: #FFF9EC;
+            color:#5D2A42
+        }
+        h1{
+            color:#5D2A42
+        }
+        h2
+        {
+            color:#42052c
+        }
+        h3
+        {
+            color:#FB6376
+        }
+
+        span{
+            background-color: #FCB1A6;
+        }
+        img {
+            height: 3%;
+            width: 15%;
+        }
+        li {
+            display: inline;
+            margin-right: 15px;
+        }
+        ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        a:link, a:visited {
+            color:#FB6376;
+            text-decoration: none;
+        }
+        a:hover {
+            color:#5D2A42;
+            text-decoration: underline;
+        }
+        hr {
+            border: 1px solid rgb(155, 17, 30);
+        }
+    </style>
